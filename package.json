@@ -1,0 +1,30 @@
+{
+  "name": "css_project",
+  "version": "1.0.0",
+  "description": "Pagina web para realizacion de eventos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pandiurex/CSS_Project.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "pagina",
+    "web"
+  ],
+  "author": "Cristopher Estrada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pandiurex/CSS_Project/issues"
+  },
+  "homepage": "https://github.com/Pandiurex/CSS_Project#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4",
+    "npm": "^6.4.1"
+  }
+}
